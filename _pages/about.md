@@ -28,7 +28,7 @@ My research interest includes artificial nanophotonic elements, especially metas
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advance</div><img src='images/waveguide_steer.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Molding free-space light with guided wave–driven metasurfaces](https://www.science.org/doi/full/10.1126/sciadv.abb4142)
@@ -55,4 +55,4 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Professional Experience
-- *2020.11 - 2023.02 (now)*, [KLA](https://github.com/), China.
+- *2020.11 - 2023.02 (now)*, [KLA]([https://github.com/](https://www.kla.com/)), China.
