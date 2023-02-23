@@ -42,8 +42,8 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2014.10* Chinese National Scholarship!
+# 💻 Professional Experience
+- *2020.11 - 2023.02 (now)*, Application Scientist, KLA-Tencor, US. [Link]((https://www.kla.com/))
 
 # 📖 Educations
 - *2016.08 - 2021.10*, Ph.D. in electrical engineering, The Pennsylvania State University. 
@@ -54,5 +54,6 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Professional Experience
-- *2020.11 - 2023.02 (now)*, [KLA]([https://github.com/](https://www.kla.com/)), China.
+# 🎖 Honors and Awards
+- *2014.10* Chinese National Scholarship!
+
