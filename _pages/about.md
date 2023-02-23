@@ -28,7 +28,7 @@ My research interest includes artificial nanophotonic elements, especially metas
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advance</div><img src='images/waveguide_steer.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advance</div><img src='images/waveguide_steer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Molding free-space light with guided wave–driven metasurfaces](https://www.science.org/doi/full/10.1126/sciadv.abb4142)
