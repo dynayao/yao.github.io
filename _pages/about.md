@@ -19,7 +19,7 @@ redirect_from:
 
 One photonic and semiconductor researcher with the motivation to keep up with the flow.
 
-My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences. </a><a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences. <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
@@ -44,7 +44,7 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 - [Direction-dependent lasing under dynamic parity-time symmetry](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11080/110800A/Direction-dependent-lasing-under-dynamic-parity-time-symmetry-Conference-Presentation/10.1117/12.2530153.full?SSO=1), **Y Duan**, X Ni - Metamaterials, Metadevices, and Metasystems 2019
 
 # 💻 Professional Experience
-- *2020.11 - 2023.02 (now)*, Application Scientist, KLA-Tencor, US. [Link]((https://www.kla.com/))
+- *2020.11 - 2023.02 (now)*, Application Scientist, KLA-Tencor, US. [Link](https://www.kla.com/)
 
 # 📖 Educations
 - *2016.08 - 2021.10*, Ph.D. in electrical engineering, The Pennsylvania State University. 
