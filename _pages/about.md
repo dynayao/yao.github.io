@@ -37,11 +37,11 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - First metal-oxide-metal nanostructures embedded into guided mode system to modulate the wave scattered. 
-- Our work are promoted by many well know scientific media and forums, such as [Penn State](https://www.psu.edu/news/research/story/seeing-light-researchers-combine-technologies-better-light-control/), [ScienceDaily](https://www.sciencedaily.com/releases/2020/07/200723143658.htm)
+- Our work are promoted by many well know scientific media and forums, such as [Penn State](https://www.psu.edu/news/research/story/seeing-light-researchers-combine-technologies-better-light-control/), [ScienceDaily](https://www.sciencedaily.com/releases/2020/07/200723143658.htm).
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]([https://github.com](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11080/110800A/Direction-dependent-lasing-under-dynamic-parity-time-symmetry-Conference-Presentation/10.1117/12.2530153.full?SSO=1)), **Y Duan**, X Ni - Metamaterials, Metadevices, and Metasystems 2019, 2019
 
 # 💻 Professional Experience
 - *2020.11 - 2023.02 (now)*, Application Scientist, KLA-Tencor, US. [Link]((https://www.kla.com/))
