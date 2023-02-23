@@ -19,7 +19,7 @@ redirect_from:
 
 One photonic and semiconductor researcher with the motivation to keep up with the flow.
 
-My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -35,7 +35,7 @@ My research interest includes artificial nanophotonic elements, especially metas
 
 Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_Kct-gIAAAAJ&citation_for_view=_Kct-gIAAAAJ:IWHjjKOFINEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - First metal-oxide-metal nanostructures embedded into guided mode system to modulate the wave scattered. 
 - Our work are promoted by many well know scientific media and forums, such as [Penn State](https://www.psu.edu/news/research/story/seeing-light-researchers-combine-technologies-better-light-control/), [ScienceDaily](https://www.sciencedaily.com/releases/2020/07/200723143658.htm).
 </div>
