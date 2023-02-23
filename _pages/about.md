@@ -55,5 +55,5 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎖 Honors and Awards
-- *2014.10* Chinese National Scholarship!
+- *2014.10* Awarded Chinese National Scholarship!
 
