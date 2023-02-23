@@ -19,12 +19,12 @@ redirect_from:
 
 One photonic and semiconductor researcher with the motivation to keep up with the flow.
 
-My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes artificial nanophotonic elements, especially metasurfaces. I have published more than 10 papers at the top international journals and conferences. </a><a href='https://scholar.google.com/citations?user=_Kct-gIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Yao is creating his first github page! 
-
+- *2021.10*: &nbsp;🎉🎉 Yao successfully passed his Ph.D. defense! 
 
 # 📝 Publications 
 
