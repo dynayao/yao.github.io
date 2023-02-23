@@ -52,7 +52,7 @@ Xuexue Guo*, Yimin Ding*, Xi Chen*, Yao Duan* (co-first authors), Xingjie Ni
 - *2012.09 - 2016.06*, B.S. in microelectronics, Nanjing University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Waiting. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎖 Honors and Awards
